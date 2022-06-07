@@ -1,4 +1,4 @@
-## Olá, eu sou o Felipe Dário! 👋🏽🧑🏽‍🦱
+#### Olá, eu sou o Felipe Dário!
 
 <div>
   <a href="https://github.com/fdario">
